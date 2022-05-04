@@ -13,6 +13,8 @@ body{
     font-size: 90px;
     font-weight: bolder;
     text-align: center;
+            width: 36vw;
+      margin-left: 10vw;
     }
   
     #logo-name{
@@ -211,7 +213,9 @@ display: block;
 #credit{
   text-align: left;
   font-size: 40px;
-  color:white
+  color:white;
+            width: 36vw;
+      margin-left: 10vw;
 }
 
 #bild{
