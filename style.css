@@ -212,7 +212,8 @@ display: block;
   text-align: center;
   font-size: 40px;
   color:white;
-    width: 10vw;
+      margin-left: 10vw;
+      margin-right: 10vw;
 }
 
 #bild{
